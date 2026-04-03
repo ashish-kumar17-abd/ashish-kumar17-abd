@@ -16,7 +16,7 @@
 
 * 🎓 BCA Student
 * 💻 Full Stack Developer (Django + React)
-* 🚀 Building real-world applications
+* 🚀 Building real-world scalable applications
 
 ---
 
@@ -99,10 +99,11 @@
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdkark&theme=tokyonight&cache_seconds=10" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdkark&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdkark&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
