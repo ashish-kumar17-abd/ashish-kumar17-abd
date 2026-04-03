@@ -1,62 +1,88 @@
-<h1 align="center">🚀 Ashish Kumar</h1>
-<h3 align="center">Full Stack Developer | Django + React</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=Ashish%20Kumar&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<h3 align="center">Full Stack Developer (Django + React) 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Django+%7C+React;Building+Real+Projects&center=true&width=500&height=45">
+  <img src="https://img.shields.io/badge/Backend-Django-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```python
-class AshishKumar:
-    role = "Full Stack Developer"
-    focus = "Django + React"
-    projects = ["Parking Finder", "Finance Dashboard", "Restaurant Dashboard"]
-    goal = "Crack a startup job 🚀"
-```
+* 🎓 BCA Student
+* 💻 Building real-world full stack apps
+* 🚀 Focused on backend & scalable systems
 
 ---
 
-## 🏆 Featured Project
+## 🚀 Projects
 
-### 🚗 Parking Finder App
+### 🔥 Parking Finder (Main Project)
 
-* 🔍 Find nearby parking spots
-* 💳 Booking system
-* 👤 Owner & User dashboards
-* 🔐 JWT Authentication
+* Find nearby parking spots
+* Booking system with dashboard
+* Role-based access (User / Owner)
+* Built with Django REST + React
+
+---
+
+### 💰 Finance Dashboard Backend
+
+* Role-based system (Admin / Analyst / Viewer)
+* JWT Authentication
+* Financial data APIs
+
+---
+
+### 📊 Restaurant Analytics Dashboard
+
+* Real-time analytics dashboard
+* Charts & filtering system
+* Clean React UI
+
+---
+
+### 📝 Blog / Notes App
+
+* User authentication
+* CRUD operations
+* Django-based web app
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,react,js,mysql,git" />
+<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,mysql,git" />
 </p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdkark&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdkark&theme=tokyonight" />
+Backend: Django, DRF | Frontend: React | Database: MySQL  
 </p>
 
 ---
 
-## 🚀 What I Build
+## 📊 GitHub Overview
 
-| 💡 Type    | 📌 Description                       |
-| ---------- | ------------------------------------ |
-| Web Apps   | Full stack apps using Django + React |
-| APIs       | REST APIs                            |
-| Dashboards | Analytics dashboards                 |
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdkark&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* Backend Development
+* Real-world Projects
+* Startup-level problem solving
 
 ---
 
 ## 📫 Connect
 
-* LinkedIn (add your link later)
+* LinkedIn (add your link)
