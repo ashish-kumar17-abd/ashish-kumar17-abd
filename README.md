@@ -15,43 +15,61 @@
 ## 👨‍💻 About Me
 
 * 🎓 BCA Student
-* 💻 Building real-world full stack apps
-* 🚀 Focused on backend & scalable systems
+* 💻 Full Stack Developer (Django + React)
+* 🚀 Building real-world projects
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🔥 Parking Finder (Main Project)
 
-* Find nearby parking spots
-* Booking system with dashboard
-* Role-based access (User / Owner)
-* Built with Django REST + React
+🚗 Full-stack app to find & book nearby parking spots
+
+* 👤 Role-based system (User / Owner)
+* 💳 Booking & dashboard
+* 🔐 JWT Authentication
+* ⚙️ Django REST + React
+
+👉 [Backend](https://github.com/abdkark/parking-backend)
+👉 [Frontend](https://github.com/abdkark/parking-frontend_app)
+
+---
+
+### 🏫 College ERP System
+
+📚 Complete college management system
+
+* 👨‍🎓 Student & Admin dashboards
+* 📝 Assignment tracking system
+* 🔐 Authentication system
+* ⚙️ Built with Django
+
+👉 [View Project](https://github.com/abdkark/EduFlow-App)
 
 ---
 
 ### 💰 Finance Dashboard Backend
 
-* Role-based system (Admin / Analyst / Viewer)
+📊 Role-based financial system
+
+* Admin / Analyst / Viewer roles
 * JWT Authentication
-* Financial data APIs
+* CRUD + filtering APIs
+
+👉 [View Project](https://github.com/abdkark/finance-dashboard-backend)
 
 ---
 
 ### 📊 Restaurant Analytics Dashboard
 
-* Real-time analytics dashboard
-* Charts & filtering system
-* Clean React UI
+📈 Real-time analytics dashboard
 
----
+* Charts + filtering
+* Clean UI
+* Django + React
 
-### 📝 Blog / Notes App
-
-* User authentication
-* CRUD operations
-* Django-based web app
+👉 [View Project](#)
 
 ---
 
@@ -70,7 +88,7 @@ Backend: Django, DRF | Frontend: React | Database: MySQL
 ## 📊 GitHub Overview
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdkark&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdkark&theme=tokyonight&cache_seconds=10" />
 </p>
 
 ---
