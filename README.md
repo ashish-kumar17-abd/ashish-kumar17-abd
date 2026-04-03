@@ -31,7 +31,7 @@
 * 🔐 JWT Authentication
 * ⚙️ Django REST + React
 
-👉 [Backend]([https://github.com/abdkark/parking-backend](https://github.com/ashish-kumar17-abd/parking-backend))
+👉 [Backend](https://github.com/ashish-kumar17-abd/parking-backend)
 👉 [Frontend]([https://github.com/abdkark/parking-frontend_app](https://github.com/ashish-kumar17-abd/parking-frontend_app))
 
 ---
