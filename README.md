@@ -32,7 +32,7 @@
 * ⚙️ Django REST + React
 
 👉 [Backend](https://github.com/ashish-kumar17-abd/parking-backend)
-👉 [Frontend]([https://github.com/abdkark/parking-frontend_app](https://github.com/ashish-kumar17-abd/parking-frontend_app))
+👉 [Frontend](https://github.com/ashish-kumar17-abd/parking-frontend_app)
 
 ---
 
@@ -45,7 +45,7 @@
 * 🔐 Authentication system
 * ⚙️ Built with Django
 
-👉 [View Project]([https://github.com/abdkark/EduFlow-App](https://github.com/ashish-kumar17-abd/EduFlow-App))
+👉 [View Project](https://github.com/ashish-kumar17-abd/EduFlow-App)
 
 ---
 
@@ -57,7 +57,7 @@
 * JWT Authentication
 * CRUD + filtering APIs
 
-👉 [View Project]([https://github.com/abdkark/finance-dashboard-backend)](https://github.com/ashish-kumar17-abd/finance-dashboard-backend)
+👉 [View Project](https://github.com/ashish-kumar17-abd/finance-dashboard-backend)
 
 ---
 
