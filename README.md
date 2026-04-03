@@ -31,8 +31,8 @@
 * 🔐 JWT Authentication
 * ⚙️ Django REST + React
 
-👉 [Backend](https://github.com/abdkark/parking-backend)
-👉 [Frontend](https://github.com/abdkark/parking-frontend_app)
+👉 [Backend]([https://github.com/abdkark/parking-backend](https://github.com/ashish-kumar17-abd/parking-backend))
+👉 [Frontend]([https://github.com/abdkark/parking-frontend_app](https://github.com/ashish-kumar17-abd/parking-frontend_app))
 
 ---
 
@@ -45,7 +45,7 @@
 * 🔐 Authentication system
 * ⚙️ Built with Django
 
-👉 [View Project](https://github.com/abdkark/EduFlow-App)
+👉 [View Project]([https://github.com/abdkark/EduFlow-App](https://github.com/ashish-kumar17-abd/EduFlow-App))
 
 ---
 
@@ -57,7 +57,7 @@
 * JWT Authentication
 * CRUD + filtering APIs
 
-👉 [View Project](https://github.com/abdkark/finance-dashboard-backend)
+👉 [View Project]([https://github.com/abdkark/finance-dashboard-backend)](https://github.com/ashish-kumar17-abd/finance-dashboard-backend)
 
 ---
 
@@ -103,4 +103,4 @@ Backend: Django, DRF | Frontend: React | Database: MySQL
 
 ## 📫 Connect
 
-* LinkedIn (add your link)
+* LinkedIn (https://www.linkedin.com/in/ashish-python-dev/)
