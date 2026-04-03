@@ -5,9 +5,9 @@
 <h3 align="center">Full Stack Developer (Django + React) 🚀</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Django-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-Backend-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 * 🎓 BCA Student
 * 💻 Full Stack Developer (Django + React)
-* 🚀 Building real-world projects
+* 🚀 Building real-world applications
 
 ---
 
@@ -31,8 +31,14 @@
 * 🔐 JWT Authentication
 * ⚙️ Django REST + React
 
-👉 [Backend](https://github.com/ashish-kumar17-abd/parking-backend)
-👉 [Frontend](https://github.com/ashish-kumar17-abd/parking-frontend_app)
+<p>
+<a href="https://github.com/ashish-kumar17-abd/parking-backend">
+<img src="https://img.shields.io/badge/Backend-View-black?style=flat-square&logo=github"/>
+</a>
+<a href="https://github.com/ashish-kumar17-abd/parking-frontend_app">
+<img src="https://img.shields.io/badge/Frontend-View-black?style=flat-square&logo=github"/>
+</a>
+</p>
 
 ---
 
@@ -45,7 +51,9 @@
 * 🔐 Authentication system
 * ⚙️ Built with Django
 
-👉 [View Project](https://github.com/ashish-kumar17-abd/EduFlow-App)
+<a href="https://github.com/ashish-kumar17-abd/EduFlow-App">
+<img src="https://img.shields.io/badge/View-Project-black?style=flat-square&logo=github"/>
+</a>
 
 ---
 
@@ -57,7 +65,9 @@
 * JWT Authentication
 * CRUD + filtering APIs
 
-👉 [View Project](https://github.com/ashish-kumar17-abd/finance-dashboard-backend)
+<a href="https://github.com/ashish-kumar17-abd/finance-dashboard-backend">
+<img src="https://img.shields.io/badge/View-Project-black?style=flat-square&logo=github"/>
+</a>
 
 ---
 
@@ -69,7 +79,9 @@
 * Clean UI
 * Django + React
 
-👉 [View Project](#)
+<a href="#">
+<img src="https://img.shields.io/badge/View-Project-black?style=flat-square&logo=github"/>
+</a>
 
 ---
 
@@ -80,7 +92,9 @@
 </p>
 
 <p align="center">
-Backend: Django, DRF | Frontend: React | Database: MySQL  
+<b>Backend:</b> Django, DRF &nbsp;&nbsp; | &nbsp;&nbsp; 
+<b>Frontend:</b> React &nbsp;&nbsp; | &nbsp;&nbsp; 
+<b>Database:</b> MySQL
 </p>
 
 ---
@@ -101,6 +115,10 @@ Backend: Django, DRF | Frontend: React | Database: MySQL
 
 ---
 
-## 📫 Connect
+## 🌐 Connect With Me
 
-* LinkedIn (https://www.linkedin.com/in/ashish-python-dev/)
+<p align="center">
+<a href="https://www.linkedin.com/in/ashish-python-dev/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
