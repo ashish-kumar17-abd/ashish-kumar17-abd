@@ -16,7 +16,8 @@
 
 * 🎓 BCA Student
 * 💻 Full Stack Developer (Django + React)
-* 🚀 Building real-world scalable applications
+* 🚀 Built real-world apps like Parking Finder & College ERP
+* 🎯 Focused on backend systems & scalable applications
 
 ---
 
@@ -24,12 +25,11 @@
 
 ### 🔥 Parking Finder (Main Project)
 
-🚗 Full-stack app to find & book nearby parking spots
+Full-stack parking booking system built with Django REST & React
 
-* 👤 Role-based system (User / Owner)
-* 💳 Booking & dashboard
-* 🔐 JWT Authentication
-* ⚙️ Django REST + React
+* Role-based system (User / Owner)
+* Booking system with dashboard
+* JWT Authentication
 
 <p>
 <a href="https://github.com/ashish-kumar17-abd/parking-backend">
@@ -44,12 +44,11 @@
 
 ### 🏫 College ERP System
 
-📚 Complete college management system
+College management system with authentication & dashboards
 
-* 👨‍🎓 Student & Admin dashboards
-* 📝 Assignment tracking system
-* 🔐 Authentication system
-* ⚙️ Built with Django
+* Student & Admin dashboards
+* Assignment tracking system
+* Backend system built with Django
 
 <a href="https://github.com/ashish-kumar17-abd/EduFlow-App">
 <img src="https://img.shields.io/badge/View-Project-black?style=flat-square&logo=github"/>
@@ -59,27 +58,13 @@
 
 ### 💰 Finance Dashboard Backend
 
-📊 Role-based financial system
+Role-based backend system for financial data
 
 * Admin / Analyst / Viewer roles
 * JWT Authentication
-* CRUD + filtering APIs
+* CRUD & filtering APIs
 
 <a href="https://github.com/ashish-kumar17-abd/finance-dashboard-backend">
-<img src="https://img.shields.io/badge/View-Project-black?style=flat-square&logo=github"/>
-</a>
-
----
-
-### 📊 Restaurant Analytics Dashboard
-
-📈 Real-time analytics dashboard
-
-* Charts + filtering
-* Clean UI
-* Django + React
-
-<a href="#">
 <img src="https://img.shields.io/badge/View-Project-black?style=flat-square&logo=github"/>
 </a>
 
@@ -111,12 +96,12 @@
 ## 🎯 Current Focus
 
 * Backend Development
-* Real-world Projects
-* Startup-level problem solving
+* Building real-world applications
+* Preparing for startup-level roles
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-python-dev/" target="_blank">
